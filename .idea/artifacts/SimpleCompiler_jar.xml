@@ -1,3 +1,4 @@
+
 <component name="ArtifactManager">
   <artifact type="jar" name="SimpleCompiler:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/SimpleCompiler_jar</output-path>
